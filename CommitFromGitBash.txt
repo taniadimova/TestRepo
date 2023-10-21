@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 Hello!
+=======
+Hello world!
+>>>>>>> main
